@@ -1,5 +1,4 @@
-# Netflix-Analysis-
-
+# Netflix-Analysis Project
 INTRODUCTION
 
 Netflix, a global streaming giant, hosts a diverse content library of movies and TV shows, continually expanding to meet the varied tastes of its audience. This project aims to analyze the Netflix dataset to distinguish between movies and TV shows, uncovering trends in content distribution, viewer preferences, and regional contributions. Using Tableau, the analysis will visualize these insights, providing a clearer understanding of Netflix's content landscape and guiding strategic decisions for content curation and platform enhancement.
